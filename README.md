@@ -7,4 +7,4 @@ Communicating via the "Message the seller" is painful, so I am collecting here b
 I am not in a position to check correctness or applicability to any device.
 
 ## Latest OS
-The router runs a modified version of OpenWRT. The seller, via private a communication sent me this update file. 
+The router runs a modified version of OpenWRT. The seller, via private a communication sent me [this update file](https://github.com/pitsianis/squarewiz-router/blob/main/WT7981P-7.8.1-251212-124428-sysupgrade.bin). 
